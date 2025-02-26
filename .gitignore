@@ -796,3 +796,5 @@ $RECYCLE.BIN/
 Packages/packages-lock.json
 Packages/*.cache
 !Assets/**/*.meta
+
+.utmp
